@@ -9,6 +9,7 @@ R = np.array([])
 n = np.array([1,2,4,8,16,32])
 print(n)
 
+
 for i in range(len(n)):
     s = 0
     h = (b-a)/n[i]
